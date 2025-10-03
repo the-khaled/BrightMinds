@@ -1,0 +1,15 @@
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Infrastructure\bin\Release\net8.0\BrightMinds.Infrastructure.deps.json
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Infrastructure\bin\Release\net8.0\BrightMinds.Infrastructure.dll
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Infrastructure\bin\Release\net8.0\BrightMinds.Infrastructure.pdb
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Infrastructure\bin\Release\net8.0\BrightMinds.Core.dll
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Infrastructure\bin\Release\net8.0\BrightMinds.Core.pdb
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Infrastructure\obj\Release\net8.0\BrightMinds.Infrastructure.csproj.AssemblyReference.cache
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Infrastructure\obj\Release\net8.0\BrightMinds.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Infrastructure\obj\Release\net8.0\BrightMinds.Infrastructure.AssemblyInfoInputs.cache
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Infrastructure\obj\Release\net8.0\BrightMinds.Infrastructure.AssemblyInfo.cs
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Infrastructure\obj\Release\net8.0\BrightMinds.Infrastructure.csproj.CoreCompileInputs.cache
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Infrastructure\obj\Release\net8.0\BrightMi.494CE004.Up2Date
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Infrastructure\obj\Release\net8.0\BrightMinds.Infrastructure.dll
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Infrastructure\obj\Release\net8.0\refint\BrightMinds.Infrastructure.dll
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Infrastructure\obj\Release\net8.0\BrightMinds.Infrastructure.pdb
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Infrastructure\obj\Release\net8.0\ref\BrightMinds.Infrastructure.dll

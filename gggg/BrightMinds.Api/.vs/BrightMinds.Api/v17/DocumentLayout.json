@@ -1,0 +1,1089 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BrightMinds\\BrightMinds.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB9DAC6-FADB-4F7E-B886-C1A30EFAB438}|..\\BrightMinds.Infrastructure\\BrightMinds.Infrastructure.csproj|e:\\brightminds\\brightminds.infrastructure\\repositories\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0228676D-E7B1-41CC-9BD5-004CD8BC4A76}|..\\BrightMinds.Services\\BrightMinds.Services.csproj|e:\\brightminds\\brightminds.services\\services\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80914068-4F5A-48DF-B3BE-E523FEB30BB9}|..\\BrightMinds.Core\\BrightMinds.Core.csproj|e:\\brightminds\\brightminds.core\\interfaces\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80914068-4F5A-48DF-B3BE-E523FEB30BB9}|..\\BrightMinds.Core\\BrightMinds.Core.csproj|e:\\brightminds\\brightminds.core\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|e:\\brightminds\\brightminds.api\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|solutionrelative:controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80914068-4F5A-48DF-B3BE-E523FEB30BB9}|..\\BrightMinds.Core\\BrightMinds.Core.csproj|e:\\brightminds\\brightminds.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0228676D-E7B1-41CC-9BD5-004CD8BC4A76}|..\\BrightMinds.Services\\BrightMinds.Services.csproj|e:\\brightminds\\brightminds.services\\iservices\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80914068-4F5A-48DF-B3BE-E523FEB30BB9}|..\\BrightMinds.Core\\BrightMinds.Core.csproj|e:\\brightminds\\brightminds.core\\interfaces\\igenericreopsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB9DAC6-FADB-4F7E-B886-C1A30EFAB438}|..\\BrightMinds.Infrastructure\\BrightMinds.Infrastructure.csproj|e:\\brightminds\\brightminds.infrastructure\\dataaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|e:\\brightminds\\brightminds.api\\extensions\\appusersandrolesseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|solutionrelative:extensions\\appusersandrolesseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|e:\\brightminds\\brightminds.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|e:\\brightminds\\brightminds.api\\extensions\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|solutionrelative:extensions\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|e:\\brightminds\\brightminds.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|e:\\brightminds\\brightminds.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|e:\\brightminds\\brightminds.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|e:\\brightminds\\brightminds.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|e:\\brightminds\\brightminds.api\\extensions\\updatedatabaseextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|solutionrelative:extensions\\updatedatabaseextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|e:\\brightminds\\brightminds.api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|e:\\brightminds\\brightminds.api\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|solutionrelative:controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|e:\\brightminds\\brightminds.api\\controllers\\sectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957FADF1-C1CD-4F20-A52E-2A37A2722322}|BrightMinds.Api.csproj|solutionrelative:controllers\\sectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\CourseDtos\\CourseWithSectionsDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ApplicationServicesConfigrations\\AddProfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Services\\CartService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Services\\CourseService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Services\\CategoryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ApplicationServicesConfigrations\\AddServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Services\\InstructorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Specifications\\CourseSpecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\IServices\\ICategoryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\SpecificationParams\\CourseSpecParams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\ISpecificationParams\\ICourseSpecParams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\IServices\\ICourseService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\CategoryResponses\\CategoryResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\CategoryResponses\\CategoryListResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\CategoryDtos\\CategoryDetailsDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\CategoryDtos\\CategoryDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\Migrations\\20241219170350_AddCategoryTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\Config\\CourseConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\Repositories\\CategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Interfaces\\ICateogryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\BrightMindsContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Models\\Course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\Config\\CartItemConfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\CartCdos\\CartItemWithCourseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\Migrations\\20241217135344_EditCartTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Models\\CartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\CartCdos\\CartItemDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\IServices\\ICartService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\CourseDtos\\CourseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\Migrations\\20241217134055_AddCartTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\Cart\\CartResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\Repositories\\CartItemRepositrory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\Repositories\\CartRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Interfaces\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\Config\\CartConfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Specifications\\CartSpecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Specifications\\CartItemSpecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Interfaces\\ICartItemRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Interfaces\\ICartRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Models\\Section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\SectionDtos\\SectionDetailsDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\SectionDtos\\SectionDto.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Models\\Cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\VideoDtos\\VideoDetailsDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Services\\VideoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Services\\SectionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Specifications\\VideoSpecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\IServices\\IVideoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\VideoResponses\\VideoListResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\VideoResponses\\VideoResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Specifications\\SectionSpecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\VideoDtos\\VideoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\IServices\\ISectionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\SectionResponses\\SectionListResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\SectionResponses\\SectionResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICouponService.cs",
+              "DocumentMoniker": "E:\\BrightMinds\\BrightMinds.Services\\IServices\\ICouponService.cs",
+              "RelativeDocumentMoniker": "..\\BrightMinds.Services\\IServices\\ICouponService.cs",
+              "ToolTip": "E:\\BrightMinds\\BrightMinds.Services\\IServices\\ICouponService.cs",
+              "RelativeToolTip": "..\\BrightMinds.Services\\IServices\\ICouponService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:03:02.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CouponController.cs",
+              "DocumentMoniker": "E:\\BrightMinds\\BrightMinds.Api\\Controllers\\CouponController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CouponController.cs",
+              "ToolTip": "E:\\BrightMinds\\BrightMinds.Api\\Controllers\\CouponController.cs",
+              "RelativeToolTip": "Controllers\\CouponController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAcwC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:00:32.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CouponService.cs",
+              "DocumentMoniker": "E:\\BrightMinds\\BrightMinds.Services\\Services\\CouponService.cs",
+              "RelativeDocumentMoniker": "..\\BrightMinds.Services\\Services\\CouponService.cs",
+              "ToolTip": "E:\\BrightMinds\\BrightMinds.Services\\Services\\CouponService.cs",
+              "RelativeToolTip": "..\\BrightMinds.Services\\Services\\CouponService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAIAywCoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:59:19.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "E:\\BrightMinds\\BrightMinds.Core\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "..\\BrightMinds.Core\\Models\\Coupon.cs",
+              "ToolTip": "E:\\BrightMinds\\BrightMinds.Core\\Models\\Coupon.cs",
+              "RelativeToolTip": "..\\BrightMinds.Core\\Models\\Coupon.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAawBUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:58:43.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericReopsitory.cs",
+              "DocumentMoniker": "E:\\BrightMinds\\BrightMinds.Core\\Interfaces\\IGenericReopsitory.cs",
+              "RelativeDocumentMoniker": "..\\BrightMinds.Core\\Interfaces\\IGenericReopsitory.cs",
+              "ToolTip": "E:\\BrightMinds\\BrightMinds.Core\\Interfaces\\IGenericReopsitory.cs",
+              "RelativeToolTip": "..\\BrightMinds.Core\\Interfaces\\IGenericReopsitory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:57:51.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CouponRepository.cs",
+              "DocumentMoniker": "E:\\BrightMinds\\BrightMinds.Infrastructure\\Repositories\\CouponRepository.cs",
+              "RelativeDocumentMoniker": "..\\BrightMinds.Infrastructure\\Repositories\\CouponRepository.cs",
+              "ToolTip": "E:\\BrightMinds\\BrightMinds.Infrastructure\\Repositories\\CouponRepository.cs",
+              "RelativeToolTip": "..\\BrightMinds.Infrastructure\\Repositories\\CouponRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:54:56.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICouponRepository.cs",
+              "DocumentMoniker": "E:\\BrightMinds\\BrightMinds.Core\\Interfaces\\ICouponRepository.cs",
+              "RelativeDocumentMoniker": "..\\BrightMinds.Core\\Interfaces\\ICouponRepository.cs",
+              "ToolTip": "E:\\BrightMinds\\BrightMinds.Core\\Interfaces\\ICouponRepository.cs",
+              "RelativeToolTip": "..\\BrightMinds.Core\\Interfaces\\ICouponRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:50:35.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\BrightMinds\\BrightMinds.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\BrightMinds.Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "E:\\BrightMinds\\BrightMinds.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\BrightMinds.Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:47:10.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\BrightMinds.Infrastructure\\DataAccess\\UnitOfWork.cs",
+              "ToolTip": "E:\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\BrightMinds.Infrastructure\\DataAccess\\UnitOfWork.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA1wCgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:48:03.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "E:\\BrightMinds\\BrightMinds.Api\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "E:\\BrightMinds\\BrightMinds.Api\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwEgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:00:31.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataSeeding.cs",
+              "DocumentMoniker": "E:\\BrightMinds\\BrightMinds.Api\\Extensions\\DataSeeding.cs",
+              "RelativeDocumentMoniker": "Extensions\\DataSeeding.cs",
+              "ToolTip": "E:\\BrightMinds\\BrightMinds.Api\\Extensions\\DataSeeding.cs",
+              "RelativeToolTip": "Extensions\\DataSeeding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:23:45.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppUsersAndRolesSeeding.cs",
+              "DocumentMoniker": "E:\\BrightMinds\\BrightMinds.Api\\Extensions\\AppUsersAndRolesSeeding.cs",
+              "RelativeDocumentMoniker": "Extensions\\AppUsersAndRolesSeeding.cs",
+              "ToolTip": "E:\\BrightMinds\\BrightMinds.Api\\Extensions\\AppUsersAndRolesSeeding.cs",
+              "RelativeToolTip": "Extensions\\AppUsersAndRolesSeeding.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:17:06.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\BrightMinds\\BrightMinds.Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "E:\\BrightMinds\\BrightMinds.Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA5wDMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:03:54.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\BrightMinds\\BrightMinds.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\BrightMinds\\BrightMinds.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T19:03:17.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CourseWithSectionsDto.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\CourseDtos\\CourseWithSectionsDto.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\CourseDtos\\CourseWithSectionsDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:44:01.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddProfiles.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ApplicationServicesConfigrations\\AddProfiles.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ApplicationServicesConfigrations\\AddProfiles.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:32:37.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Services\\CartService.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Services\\CartService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAcwEIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:20:45.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Services\\CourseService.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Services\\CourseService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAywGEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:56:43.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAA5wHQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:04:22.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BrightMinds\\BrightMinds.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\BrightMinds\\BrightMinds.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAEMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:27:11.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddServices.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ApplicationServicesConfigrations\\AddServices.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ApplicationServicesConfigrations\\AddServices.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA2wDUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:50:52.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\BrightMinds\\BrightMinds.Api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\BrightMinds\\BrightMinds.Api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAABEwEAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:14:03.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InstructorService.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Services\\InstructorService.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Services\\InstructorService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAywFMAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:04:02.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CourseSpecifications.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Specifications\\CourseSpecifications.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Specifications\\CourseSpecifications.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:20:25.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\IServices\\ICategoryService.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\IServices\\ICategoryService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA0wBAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:07:21.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateDatabaseExtension.cs",
+              "DocumentMoniker": "E:\\BrightMinds\\BrightMinds.Api\\Extensions\\UpdateDatabaseExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\UpdateDatabaseExtension.cs",
+              "ToolTip": "E:\\BrightMinds\\BrightMinds.Api\\Extensions\\UpdateDatabaseExtension.cs",
+              "RelativeToolTip": "Extensions\\UpdateDatabaseExtension.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywBUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:53:37.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CourseSpecParams.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\SpecificationParams\\CourseSpecParams.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\SpecificationParams\\CourseSpecParams.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:19:26.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICourseSpecParams.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\ISpecificationParams\\ICourseSpecParams.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\ISpecificationParams\\ICourseSpecParams.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:18:55.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\IServices\\ICourseService.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\IServices\\ICourseService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:10:26.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoryResponse.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\CategoryResponses\\CategoryResponse.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\CategoryResponses\\CategoryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:08:44.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryListResponse.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\CategoryResponses\\CategoryListResponse.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\CategoryResponses\\CategoryListResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:08:32.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryDetailsDto.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\CategoryDtos\\CategoryDetailsDto.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\CategoryDtos\\CategoryDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:06:17.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\CategoryDtos\\CategoryDto.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\CategoryDtos\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:05:55.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241219170350_AddCategoryTable.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\Migrations\\20241219170350_AddCategoryTable.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\Migrations\\20241219170350_AddCategoryTable.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBCwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:03:50.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CourseConfig.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\Config\\CourseConfig.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\Config\\CourseConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:00:38.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:57:00.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ICateogryRepository.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Interfaces\\ICateogryRepository.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Interfaces\\ICateogryRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:56:13.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Models\\Category.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:55:13.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\UnitOfWork.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\UnitOfWork.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA3wA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:11:21.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BrightMindsContext.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\BrightMindsContext.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\BrightMindsContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA2wBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:16:29.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Models\\Course.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Models\\Course.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBCwBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:26:07.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\BrightMinds\\BrightMinds.Api\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "E:\\BrightMinds\\BrightMinds.Api\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:37:25.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CartItemConfigration.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\Config\\CartItemConfigration.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\Config\\CartItemConfigration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:54.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CartItemWithCourseDto.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\CartCdos\\CartItemWithCourseDto.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\CartCdos\\CartItemWithCourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBTwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:34:38.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20241217135344_EditCartTables.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\Migrations\\20241217135344_EditCartTables.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\Migrations\\20241217135344_EditCartTables.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBTwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:53:44.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Models\\CartItem.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBTwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:31:13.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CartItemDto.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\CartCdos\\CartItemDto.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\CartCdos\\CartItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:46:55.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\IServices\\ICartService.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\IServices\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:20:06.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\CourseDtos\\CourseDto.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\CourseDtos\\CourseDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBTwAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:56:53.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20241217134055_AddCartTables.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\Migrations\\20241217134055_AddCartTables.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\Migrations\\20241217134055_AddCartTables.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA2wDwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:40:55.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CartResponse.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\Cart\\CartResponse.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\Cart\\CartResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:19:18.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CartItemRepositrory.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\Repositories\\CartItemRepositrory.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\Repositories\\CartItemRepositrory.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA2wCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:14:23.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\Repositories\\CartRepository.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\Repositories\\CartRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBTwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:12:52.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBTwBEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:10:55.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CartConfigration.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\Config\\CartConfigration.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Infrastructure\\DataAccess\\Config\\CartConfigration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBTwAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:32.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CartSpecifications.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Specifications\\CartSpecifications.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Specifications\\CartSpecifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBTwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:58:48.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CartItemSpecifications.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Specifications\\CartItemSpecifications.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Specifications\\CartItemSpecifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBTwA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:45:20.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ICartItemRepository.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Interfaces\\ICartItemRepository.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Interfaces\\ICartItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:44:44.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Interfaces\\ICartRepository.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Interfaces\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:41:19.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Section.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Models\\Section.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Models\\Section.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBTwA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:38:27.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SectionDetailsDto.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\SectionDtos\\SectionDetailsDto.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\SectionDtos\\SectionDetailsDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:37:51.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "SectionDto.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\SectionDtos\\SectionDto.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\SectionDtos\\SectionDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBTwBYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:51:38.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Models\\Cart.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:30:56.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "VideoDetailsDto.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\VideoDtos\\VideoDetailsDto.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\VideoDtos\\VideoDetailsDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAywAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:41:08.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VideoController.cs",
+              "DocumentMoniker": "E:\\BrightMinds\\BrightMinds.Api\\Controllers\\VideoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VideoController.cs",
+              "ToolTip": "E:\\BrightMinds\\BrightMinds.Api\\Controllers\\VideoController.cs",
+              "RelativeToolTip": "Controllers\\VideoController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:30:49.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "VideoService.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Services\\VideoService.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Services\\VideoService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwIIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:10:35.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SectionController.cs",
+              "DocumentMoniker": "E:\\BrightMinds\\BrightMinds.Api\\Controllers\\SectionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SectionController.cs",
+              "ToolTip": "E:\\BrightMinds\\BrightMinds.Api\\Controllers\\SectionController.cs",
+              "RelativeToolTip": "Controllers\\SectionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:52:22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "SectionService.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Services\\SectionService.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Services\\SectionService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwC4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:50:21.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "VideoSpecifications.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Specifications\\VideoSpecifications.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Specifications\\VideoSpecifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:43:50.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IVideoService.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\IServices\\IVideoService.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\IServices\\IVideoService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:05:48.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "VideoListResponse.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\VideoResponses\\VideoListResponse.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\VideoResponses\\VideoListResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:07:30.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "VideoResponse.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\VideoResponses\\VideoResponse.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\VideoResponses\\VideoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:06:47.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "SectionSpecifications.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Specifications\\SectionSpecifications.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Core\\Specifications\\SectionSpecifications.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA1wA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:57:22.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "VideoDto.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\VideoDtos\\VideoDto.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\Dtos\\VideoDtos\\VideoDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBTwBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:39:22.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ISectionService.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\IServices\\ISectionService.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\IServices\\ISectionService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:47:56.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "SectionListResponse.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\SectionResponses\\SectionListResponse.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\SectionResponses\\SectionListResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:46:13.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "SectionResponse.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\SectionResponses\\SectionResponse.cs",
+              "ToolTip": "D:\\projects\\C# projects\\Core Projects\\BrightMinds\\BrightMinds.Services\\ServicesResponse\\SectionResponses\\SectionResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:36:32.58Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

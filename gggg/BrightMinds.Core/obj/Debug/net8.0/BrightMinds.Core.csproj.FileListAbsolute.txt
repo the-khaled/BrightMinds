@@ -1,0 +1,36 @@
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Core\bin\Debug\net8.0\BrightMinds.Core.deps.json
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Core\bin\Debug\net8.0\BrightMinds.Core.dll
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Core\bin\Debug\net8.0\BrightMinds.Core.pdb
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.csproj.AssemblyReference.cache
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.AssemblyInfoInputs.cache
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.AssemblyInfo.cs
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.csproj.CoreCompileInputs.cache
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.dll
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\refint\BrightMinds.Core.dll
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.pdb
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\ref\BrightMinds.Core.dll
+F:\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.dll
+F:\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\refint\BrightMinds.Core.dll
+F:\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.pdb
+F:\BrightMinds\BrightMinds.Core\bin\Debug\net8.0\BrightMinds.Core.deps.json
+F:\BrightMinds\BrightMinds.Core\bin\Debug\net8.0\BrightMinds.Core.dll
+F:\BrightMinds\BrightMinds.Core\bin\Debug\net8.0\BrightMinds.Core.pdb
+F:\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.csproj.AssemblyReference.cache
+F:\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.AssemblyInfoInputs.cache
+F:\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.AssemblyInfo.cs
+F:\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.csproj.CoreCompileInputs.cache
+F:\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\ref\BrightMinds.Core.dll
+E:\BrightMinds\BrightMinds.Core\bin\Debug\net8.0\BrightMinds.Core.deps.json
+E:\BrightMinds\BrightMinds.Core\bin\Debug\net8.0\BrightMinds.Core.dll
+E:\BrightMinds\BrightMinds.Core\bin\Debug\net8.0\BrightMinds.Core.pdb
+E:\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.csproj.AssemblyReference.cache
+E:\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.AssemblyInfoInputs.cache
+E:\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.AssemblyInfo.cs
+E:\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.csproj.CoreCompileInputs.cache
+E:\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.dll
+E:\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\refint\BrightMinds.Core.dll
+E:\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\BrightMinds.Core.pdb
+E:\BrightMinds\BrightMinds.Core\obj\Debug\net8.0\ref\BrightMinds.Core.dll

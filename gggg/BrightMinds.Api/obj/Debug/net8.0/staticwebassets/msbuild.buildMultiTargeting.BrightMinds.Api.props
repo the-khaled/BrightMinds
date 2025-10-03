@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BrightMinds.Api.props" />
+</Project>

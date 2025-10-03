@@ -1,0 +1,17 @@
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Services\bin\Release\net8.0\BrightMinds.Services.deps.json
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Services\bin\Release\net8.0\BrightMinds.Services.dll
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Services\bin\Release\net8.0\BrightMinds.Services.pdb
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Services\bin\Release\net8.0\BrightMinds.Core.dll
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Services\bin\Release\net8.0\BrightMinds.Infrastructure.dll
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Services\bin\Release\net8.0\BrightMinds.Infrastructure.pdb
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Services\bin\Release\net8.0\BrightMinds.Core.pdb
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Services\obj\Release\net8.0\BrightMinds.Services.csproj.AssemblyReference.cache
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Services\obj\Release\net8.0\BrightMinds.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Services\obj\Release\net8.0\BrightMinds.Services.AssemblyInfoInputs.cache
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Services\obj\Release\net8.0\BrightMinds.Services.AssemblyInfo.cs
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Services\obj\Release\net8.0\BrightMinds.Services.csproj.CoreCompileInputs.cache
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Services\obj\Release\net8.0\BrightMi.EEB4CD4B.Up2Date
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Services\obj\Release\net8.0\BrightMinds.Services.dll
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Services\obj\Release\net8.0\refint\BrightMinds.Services.dll
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Services\obj\Release\net8.0\BrightMinds.Services.pdb
+D:\projects\C# projects\Core Projects\BrightMinds\BrightMinds.Services\obj\Release\net8.0\ref\BrightMinds.Services.dll

@@ -1,0 +1,125 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\CourseImages\\2024-12-20 (1).png",
+      "PackagePath": "staticwebassets\\files\\CourseImages\\2024-12-20 (1).png"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\CourseImages\\2024-12-20 (3).png",
+      "PackagePath": "staticwebassets\\files\\CourseImages\\2024-12-20 (3).png"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\CourseImages\\2024-12-20 (4).png",
+      "PackagePath": "staticwebassets\\files\\CourseImages\\2024-12-20 (4).png"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\CourseImages\\annie-spratt-QckxruozjRg-unsplash.jpg",
+      "PackagePath": "staticwebassets\\files\\CourseImages\\annie-spratt-QckxruozjRg-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\CourseImages\\ben-kolde-bs2Ba7t69mM-unsplash.jpg",
+      "PackagePath": "staticwebassets\\files\\CourseImages\\ben-kolde-bs2Ba7t69mM-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\CourseImages\\brooke-cagle-WHWYBmtn3_0-unsplash.jpg",
+      "PackagePath": "staticwebassets\\files\\CourseImages\\brooke-cagle-WHWYBmtn3_0-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\CourseImages\\course-1.jpg",
+      "PackagePath": "staticwebassets\\files\\CourseImages\\course-1.jpg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\CourseImages\\course-2.jpg",
+      "PackagePath": "staticwebassets\\files\\CourseImages\\course-2.jpg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\CourseImages\\course-3.jpg",
+      "PackagePath": "staticwebassets\\files\\CourseImages\\course-3.jpg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\CourseImages\\firmbee-com-SpVHcbuKi6E-unsplash.jpg",
+      "PackagePath": "staticwebassets\\files\\CourseImages\\firmbee-com-SpVHcbuKi6E-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\CourseImages\\john-schnobrich-FlPc9_VocJ4-unsplash.jpg",
+      "PackagePath": "staticwebassets\\files\\CourseImages\\john-schnobrich-FlPc9_VocJ4-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\CourseImages\\microsoft-365-MFK0JpFU13U-unsplash.jpg",
+      "PackagePath": "staticwebassets\\files\\CourseImages\\microsoft-365-MFK0JpFU13U-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\CourseImages\\microsoft-edge-5bM6nLQ9Qv0-unsplash.jpg",
+      "PackagePath": "staticwebassets\\files\\CourseImages\\microsoft-edge-5bM6nLQ9Qv0-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\CourseImages\\microsoft-edge-Px0X7g1mc8k-unsplash.jpg",
+      "PackagePath": "staticwebassets\\files\\CourseImages\\microsoft-edge-Px0X7g1mc8k-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\CourseImages\\scott-graham-5fNmWej4tAA-unsplash.jpg",
+      "PackagePath": "staticwebassets\\files\\CourseImages\\scott-graham-5fNmWej4tAA-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\CourseImages\\tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg",
+      "PackagePath": "staticwebassets\\files\\CourseImages\\tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\UsersImages\\1667397065959.jpeg",
+      "PackagePath": "staticwebassets\\files\\UsersImages\\1667397065959.jpeg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\UsersImages\\1727181526008.jpeg",
+      "PackagePath": "staticwebassets\\files\\UsersImages\\1727181526008.jpeg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\UsersImages\\channels4_profile.jpg",
+      "PackagePath": "staticwebassets\\files\\UsersImages\\channels4_profile.jpg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\UsersImages\\channels4_profile_2.jpg",
+      "PackagePath": "staticwebassets\\files\\UsersImages\\channels4_profile_2.jpg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\UsersImages\\team-1.jpg",
+      "PackagePath": "staticwebassets\\files\\UsersImages\\team-1.jpg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\UsersImages\\team-2.jpg",
+      "PackagePath": "staticwebassets\\files\\UsersImages\\team-2.jpg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\UsersImages\\team-3.jpg",
+      "PackagePath": "staticwebassets\\files\\UsersImages\\team-3.jpg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\UsersImages\\team-4.jpg",
+      "PackagePath": "staticwebassets\\files\\UsersImages\\team-4.jpg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\UsersImages\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\files\\UsersImages\\testimonial-1.jpg"
+    },
+    {
+      "Id": "E:\\BrightMinds\\BrightMinds.Api\\wwwroot\\files\\UsersImages\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\files\\UsersImages\\testimonial-3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BrightMinds.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BrightMinds.Api.props",
+      "PackagePath": "build\\BrightMinds.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BrightMinds.Api.props",
+      "PackagePath": "buildMultiTargeting\\BrightMinds.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BrightMinds.Api.props",
+      "PackagePath": "buildTransitive\\BrightMinds.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
