@@ -36,7 +36,7 @@ JWT Authentication
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/BrightMid.git
+git clone https://github.com/the-khaled/BrightMinds
 
 
 Navigate to the project folder:
